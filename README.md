@@ -10,11 +10,11 @@ A Udacity Data Scientist Nanodegree Project
 5. [Licensing, Authors, and Acknowledgements](#licensing)
 
 ## Installation <a name="installation"></a>
+There ought to be no vital libraries to run the code here past the Anaconda dispersion of Python. The code should run without any issues utilizing Python adaptations 3.*. 
 
-There should be no necessary libraries to run the code here beyond the Anaconda distribution of Python.  The code should run with no issues using Python versions 3.*.
-You will need to download Stackoverflow’s 2017 and 2018 Annual Developer Survey and put in specific folders. You can find the data to download [here](https://insights.stackoverflow.com/survey). </br>
+You should download Stackoverflow's 2017 and 2018 Annual Developer Survey and put in explicit envelopes. You can discover the information to download[here](https://insights.stackoverflow.com/survey). </br>
 
-To move the downloaded files to the specific folder, you can execute. </br>
+To move the downloaded records to the particular folder, you can execute.</br>
 
 1. Stackoverflow’s 2017 data </br>
 ` mv survey_results_public.csv Write-a-Data-Science-Blog-Post/data/2017/survey_results_public.csv `</br>
@@ -24,8 +24,7 @@ To move the downloaded files to the specific folder, you can execute. </br>
 
 ## Project Motivation<a name="motivation"></a>
 
-For this project, I was interestested in using StackOverflow Dataset(2017 and 2018) from Kaggle to better understand:
-
+For this venture, I was interestested in utilizing StackOverflow Dataset(2017 and 2018) from Kaggle to all the more likely comprehend:
 Question 1: Which Country has the highest number of users in Stackoverflow ?
 
 Question 2: Which Programming Language are highly used in United States ?
